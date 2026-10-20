@@ -8,13 +8,9 @@
 
 ## Sobre mí
 
-Desarrollador Fullstack .NET con **más de 6 años de experiencia** diseñando, desarrollando y manteniendo aplicaciones web y móviles en el ecosistema Microsoft.
-
-- 🏦 Experiencia consolidada en el **sector bancario**: aplicaciones web con ASP.NET, C# y SQL Server.
-- 🔄 Integración de servicios **REST**, optimización de bases de datos y **modernización de sistemas legacy**.
-- 🧩 Transformo requerimientos de negocio en soluciones técnicas, trabajando con **Scrum / Kanban** en todo el ciclo de desarrollo.
-- 🤖 Uso **Claude y Claude Code** y prompt engineering aplicado al desarrollo de software.
-- 🎓 Analista Programador en TI (UAI) y cursando la Licenciatura en Gestión de Tecnología Informática.
+Soy desarrollador Fullstack .NET con más de 6 años de experiencia creando y manteniendo aplicaciones web, de escritorio y móviles en el ecosistema Microsoft. Trabajo principalmente con C#, ASP.NET (WebForms, MVC y Core), Blazor Server, Web API, Entity Framework Core y SQL Server, y también desarrollé aplicaciones de escritorio con WinForms y apps móviles multiplataforma con Xamarin para Android e iOS.
+Hoy me desempeño en el sector bancario, donde integro servicios REST, optimizo bases de datos y modernizo sistemas legacy, llevando aplicaciones WebForms hacia arquitecturas más actuales. Me gusta convertir necesidades de negocio en soluciones concretas y participar en todo el ciclo de desarrollo dentro de equipos ágiles (Scrum/Kanban).
+Incorporo Claude Code a mi día a día para analizar código, documentar sistemas, acelerar refactors y automatizar tareas repetitivas, siempre con revisión propia de cada cambio.
 
 ## Stack
 
